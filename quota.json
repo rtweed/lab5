@@ -8,8 +8,7 @@
     "hard": {
       "memory": "1024Mi",
       "cpu": "10",
-      "pods": "5",
-      "resourcequotas":"1"
+      "pods": "5"
     }
   }
 }
